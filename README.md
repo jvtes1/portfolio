@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dimestorerocket.com/wp-content/uploads/2019/09/pythonbanner-1.jpg" >
+  <img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2021/02/22-02-2021-Monday-Python-Blog-Banner.png" >
 </p>
 
 # Carlos Melo
