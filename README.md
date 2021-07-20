@@ -1,7 +1,5 @@
-https://dimestorerocket.com/wp-content/uploads/2019/09/pythonbanner-1.jpg
-
 <p align="center">
-  <img src="banner.png" >
+  <img src="https://dimestorerocket.com/wp-content/uploads/2019/09/pythonbanner-1.jpg" >
 </p>
 
 # Carlos Melo
