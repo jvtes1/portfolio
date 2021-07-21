@@ -4,9 +4,10 @@
 
 # João Victor Teixeira
 <sub>*Engenheiro de Transportes* com foco na área de Ciência de dados </sub>
+
 <sub>*Transportation Engineer* focused on Data Science field </sub>
 
-Engenheiro de Transportes com 5 anos de experiência no ramo da Consultoria. Experiências em projetos de diagnósticos, propostas e reestruturações associando habilidades avançadas em análise de dados, storytelling, Python, pesquisa operacional, simulação e otimização. Competências gerais envolvem alta visão crítica, capacidade de trabalhar em equipe e liderar pessoas, atenção excepcional aos detalhes e excelência na produção de relatórios técnicos alinhando análises textuais à visualizações e insights gráficos, com um português impecável.
+Engenheiro de Transportes com 5 anos de experiência no ramo da Consultoria. Experiências em projetos de diagnósticos, propostas e reestruturações associando habilidades avançadas em análise de dados, storytelling, Python, pesquisa operacional, simulação e otimização. Competências gerais envolvem alta visão crítica, capacidade de trabalhar em equipe e liderar pessoas, atenção excepcional aos detalhes e excelência na produção de relatórios técnicos alinhando análises textuais à visualizações e insights gráficos.
 
 Transportation Engineering with 5+ years in the field of consulting. Combining great experiences in reports for evaluation, proposing and restructuring transportation systems in many cities combining advanced skills in exploratory data analysis (EDA), storytelling, Python, operational research, traffic simulation and optimization. General abilites are critical thinking, problem-solving skills, ability to work in team environments, attention to details and excellence on writing technical reports.
 
